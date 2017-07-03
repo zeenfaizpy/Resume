@@ -12,7 +12,7 @@ Contact
 Experience
 ----------
 Senior Software Engineer - Kestrel Systems, Dubai UAE   (January 2014 - Present)
-    * Developed reliable backend for CRM/ERP using Python, Django, Postgresql
+    * Developed reliable backend for Custom CRM/ERP from scratch using Python, Django, Postgresql
     * Implemented RESTful apis for backend using Django REST Framework
     * Automated Deployment using Fabric and Docker
     * Worked on Highly scalable Custom Accounting systems like Xero using 

@@ -69,8 +69,8 @@
         textColor: #1E66C1 
 
   fontsAlias:
-    stdFont: Rufina-Regular
-    stdBold: Rufina-Bold
+    stdFont: Rufina Regular
+    stdBold: Rufina Bold
     stdItalic: Helvetica-Oblique
     stdBoldItalic: Helvetica-BoldOblique
     stdSans: Helvetica

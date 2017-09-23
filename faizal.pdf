@@ -45,14 +45,7 @@ endobj
 endobj
 8 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (http://www.equityboss.com)
->> /Border [ 0 0 0 ] /Rect [ 109.0229 172.0236 227.9529 184.0236 ] /Subtype /Link /Type /Annot
->>
-endobj
-9 0 obj
-<<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -60,9 +53,26 @@ endobj
 >> /Type /Page
 >>
 endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.equityboss.com)
+>> /Border [ 0 0 0 ] /Rect [ 109.0229 455.8661 227.9529 467.8661 ] /Subtype /Link /Type /Annot
+>>
+endobj
 10 0 obj
 <<
-/Contents 21 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 19 0 R /Resources <<
+/Annots [ 9 0 R ] /Contents 22 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 23 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 20 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -70,55 +80,55 @@ endobj
   /Type /Page
 >>
 endobj
-11 0 obj
-<<
-/Outlines 13 0 R /PageLabels 22 0 R /PageMode /UseNone /Pages 19 0 R /Type /Catalog
->>
-endobj
 12 0 obj
 <<
-/Author () /CreationDate (D:20170703194715-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170703194715-04'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Mohammad Faizal.Z) /Trapped /False
+/Outlines 14 0 R /PageLabels 24 0 R /PageMode /UseNone /Pages 20 0 R /Type /Catalog
 >>
 endobj
 13 0 obj
 <<
-/Count 5 /First 14 0 R /Last 18 0 R /Type /Outlines
+/Author () /CreationDate (D:20170923212005-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170923212005-04'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Mohammad Faizal.Z) /Trapped /False
 >>
 endobj
 14 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 683.0236 0 ] /Next 15 0 R /Parent 13 0 R /Title (Contact)
+/Count 5 /First 15 0 R /Last 19 0 R /Type /Outlines
 >>
 endobj
 15 0 obj
 <<
-/Dest [ 9 0 R /XYZ 62.69291 548.0236 0 ] /Next 16 0 R /Parent 13 0 R /Prev 14 0 R /Title (Experience)
+/Dest [ 8 0 R /XYZ 62.69291 683.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Contact)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /Next 17 0 R /Parent 13 0 R /Prev 15 0 R /Title (Technical Skills)
+/Dest [ 8 0 R /XYZ 62.69291 548.0236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Experience)
 >>
 endobj
 17 0 obj
 <<
-/Dest [ 10 0 R /XYZ 62.69291 603.0236 0 ] /Next 18 0 R /Parent 13 0 R /Prev 16 0 R /Title (Education)
+/Dest [ 10 0 R /XYZ 62.69291 350.8661 0 ] /Next 18 0 R /Parent 14 0 R /Prev 16 0 R /Title (Technical Skills)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 10 0 R /XYZ 62.69291 522.0236 0 ] /Parent 13 0 R /Prev 17 0 R /Title (Others)
+/Dest [ 10 0 R /XYZ 62.69291 161.8661 0 ] /Next 19 0 R /Parent 14 0 R /Prev 17 0 R /Title (Education)
 >>
 endobj
 19 0 obj
 <<
-/Count 2 /Kids [ 9 0 R 10 0 R ] /Type /Pages
+/Dest [ 11 0 R /XYZ 62.69291 765.0236 0 ] /Parent 14 0 R /Prev 18 0 R /Title (Others)
 >>
 endobj
 20 0 obj
 <<
-/Length 9399
+/Count 3 /Kids [ 8 0 R 10 0 R 11 0 R ] /Type /Pages
+>>
+endobj
+21 0 obj
+<<
+/Length 9102
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -132,7 +142,7 @@ Q
 q
 1 0 0 1 62.69291 695.0236 cm
 q
-BT 1 0 0 1 0 26 Tm 1.346136 Tw 12 TL /F1 10 Tf 0 0 0 rg (I started writing code in college days.My view towards programming completely changed after learning) Tj T* 0 Tw 1.643555 Tw (python.The language provides me an elegant and concise syntax to express my solutions to complex) Tj T* 0 Tw (problems.I like to build tools which simplify the workflow and process.) Tj T* ET
+BT 1 0 0 1 0 26 Tm .099269 Tw 12 TL /F1 10 Tf 0 0 0 rg (I started writing code in my college days.My view towards programming completely changed after learning) Tj T* 0 Tw 1.643555 Tw (python.The language provides me an elegant and concise syntax to express my solutions to complex) Tj T* 0 Tw (problems.I like to build tools which simplify the workflow and process.) Tj T* ET
 Q
 Q
 q
@@ -288,18 +298,52 @@ BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Senior Software Engineer - Kestrel Systems, D
 Q
 Q
 q
-1 0 0 1 62.69291 224.0236 cm
+1 0 0 1 62.69291 503.0236 cm
+Q
+q
+1 0 0 1 62.69291 77.02362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 272 Tm  T* ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
-1 0 0 1 20 276 cm
+1 0 0 1 20 414 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Custom CRM/ERP) Tj T* ET
+Q
 Q
 q
-1 0 0 1 20 276 cm
+1 0 0 1 20 408 cm
 Q
 q
-1 0 0 1 20 252 cm
+1 0 0 1 20 408 cm
+Q
+q
+1 0 0 1 20 384 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.450976 Tw (Developed Custom CRM/ERP for the client named Valtek Sulamericana, Valve Manufactuing) Tj T* 0 Tw (Company, Dubai.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 378 cm
+Q
+q
+1 0 0 1 20 354 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -320,10 +364,10 @@ q
 Q
 Q
 q
-1 0 0 1 20 246 cm
+1 0 0 1 20 348 cm
 Q
 q
-1 0 0 1 20 234 cm
+1 0 0 1 20 336 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -337,17 +381,17 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented RESTful apis for backend using Django REST Framework) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented RESTful API for backend using Django REST Framework and Flask) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 228 cm
+1 0 0 1 20 330 cm
 Q
 q
-1 0 0 1 20 216 cm
+1 0 0 1 20 318 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -368,14 +412,134 @@ q
 Q
 Q
 q
+1 0 0 1 20 312 cm
+Q
+q
+1 0 0 1 20 300 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Build Awesome UI using Angular JS, React JS, Vanilla JS, Modular CSS and HTML) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 294 cm
+Q
+q
+1 0 0 1 20 258 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .288976 Tw (Automated all technical workflows like PDM\(Part Data Management\), MR \(Material Requisition\),) Tj T* 0 Tw 1.485529 Tw (Inventory Management, Sales Management using Agile Software Developement Practice and) Tj T* 0 Tw (implemented using Django, Python.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 252 cm
+Q
+q
+1 0 0 1 20 228 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .595984 Tw (Managing Linux VPS server for CRM/ERP systems used by more than 600 people in the client) Tj T* 0 Tw (site.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 222 cm
+Q
+q
 1 0 0 1 20 210 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Used technologies like Nginx, Gunicorn, RabbitMQ, Redis, Celery in Production server) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 204 cm
+Q
+q
+1 0 0 1 20 192 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Build automated Reports using D3.js and Python.) Tj T* ET
+Q
+Q
+q
+Q
 Q
 q
 1 0 0 1 20 186 cm
+Q
+q
+1 0 0 1 20 174 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 9 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -385,35 +549,24 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .23748 Tw (Worked on Highly scalable Custom Accounting systems like Xero using Python, Django, Celery,) Tj T* 0 Tw (RabbitMQ) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented sales tracking systems in Vanilla JS using Mapbox and Google Maps API) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 20 180 cm
+1 0 0 1 20 174 cm
 Q
 q
 1 0 0 1 20 156 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Custom Accounting Software) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .346905 Tw (Build awesome UIs for CRM, ERP, Accounting applications using Angular JS, React JS, Vanilla) Tj T* 0 Tw (JS, Modular CSS and HTML) Tj T* ET
-Q
-Q
-q
-Q
+1 0 0 1 20 150 cm
 Q
 q
 1 0 0 1 20 150 cm
@@ -433,7 +586,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .117976 Tw (Developed Human Resource Management \(HCAP\) software from scratch using Python, Django,) Tj T* 0 Tw (Celery, RabbitMQ, Redis.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.329069 Tw (Developed Custom Accounting system like Xero for the client named Valtek Sulamericana,) Tj T* 0 Tw (Valve Manufactuing Company, Dubai.) Tj T* ET
 Q
 Q
 q
@@ -457,7 +610,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Managing Linux VPS server for CRM/ERP/HCAP systems used by more than 600 people) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented the highly scalable backend using Python, Django, Celery, RabbitMQ, Redis) Tj T* ET
 Q
 Q
 q
@@ -467,7 +620,44 @@ q
 1 0 0 1 20 102 cm
 Q
 q
-1 0 0 1 20 78 cm
+1 0 0 1 20 90 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Integrate the all account modules with existing custom ERP using RESTful API \(Django DRF\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 72 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (HCAP - Custom HR Software) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 42 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -481,7 +671,242 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .557674 Tw (Developed online food ordering system with online payment using payfort and integrated it with) Tj T* 0 Tw (their legacy POS using custom linux machine at site.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .117976 Tw (Developed Human Resource Management \(HCAP\) software from scratch using Python, Django,) Tj T* 0 Tw (Celery, RabbitMQ, Redis, ElasticSearch.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 36 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.395976 Tw (Automated all workflow like employee leave application and verification process, worksheet) Tj T* 0 Tw 2.450976 Tw (management, Document Tracker, Leave and Grauity Tracker, job activity management, etc) Tj T* 0 Tw (using Python, Django, AngularJS, Celery, RabbitMQ) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+22 0 obj
+<<
+/Length 9589
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 512.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 258 cm
+Q
+q
+1 0 0 1 20 234 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.619069 Tw (Automated Payroll management using Python and Django and integrate payroll process with) Tj T* 0 Tw (HSBC Site) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 228 cm
+Q
+q
+1 0 0 1 20 216 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked on Native IOS Application built using Swift for tracking inhouse sales employees.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 216 cm
+Q
+q
+1 0 0 1 20 198 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Custom Recruitment Portal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 192 cm
+Q
+q
+1 0 0 1 20 192 cm
+Q
+q
+1 0 0 1 20 168 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.582706 Tw (Develeped custom recruitment portal and integrate with existing HCAP HR Software using) Tj T* 0 Tw (Python, Django, Celery, RabbitMQ, Gunicorn, Nginx.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 162 cm
+Q
+q
+1 0 0 1 20 150 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Build responsive frontend using ReactJS, Vanilla JS, HTML.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 144 cm
+Q
+q
+1 0 0 1 20 132 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Automated all recruitment workflow like screening, shortlisting and hiring process) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 132 cm
+Q
+q
+1 0 0 1 20 114 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Online Food Ordering System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 108 cm
+Q
+q
+1 0 0 1 20 96 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Developed online food ordering system for the client named Rossovivo, Dubai) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 90 cm
+Q
+q
+1 0 0 1 20 78 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Build online food ordering system using Python, Django, Django REST Framework.) Tj T* ET
 Q
 Q
 q
@@ -505,7 +930,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.229974 Tw (Developed automated Material Requisition Process for Instrumentaion Industry from scratch) Tj T* 0 Tw (using Django and Angular JS) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.156905 Tw (Implement online payment using payfort and integrated it with their legacy POS using custom) Tj T* 0 Tw (linux machine at site.) Tj T* ET
 Q
 Q
 q
@@ -529,7 +954,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Worked on Native IOS Application built using Swift for tracking inhouse sales employees.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Build Single Page Application using ReactJS, Webpack.) Tj T* ET
 Q
 Q
 q
@@ -553,7 +978,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .141647 Tw (Developed full fledged Job Portal Backend using Python, Django, Django REST Framework and) Tj T* 0 Tw (Frontend using ReactJS and integrate it with HCAP Systems) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .678555 Tw (Worked on Native IOS Application built using Swift and integrate with Custom REST API using) Tj T* 0 Tw (Django REST Framework) Tj T* ET
 Q
 Q
 q
@@ -566,17 +991,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 208.0236 cm
+1 0 0 1 62.69291 512.8661 cm
+Q
+q
+1 0 0 1 62.69291 494.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Full Stack Developer - iThoughtz Technologies, Chennai, India \(July 2011 - December 2013\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 79.02362 cm
+1 0 0 1 62.69291 488.8661 cm
+Q
+q
+1 0 0 1 62.69291 362.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 116 Tm  T* ET
+BT 1 0 0 1 0 2 Tm  T* ET
 q
 1 0 0 1 20 120 cm
 Q
@@ -705,26 +1136,20 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-21 0 obj
-<<
-/Length 5489
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 744.0236 cm
+1 0 0 1 62.69291 362.8661 cm
+Q
+q
+1 0 0 1 62.69291 329.8661 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 732.0236 cm
+1 0 0 1 62.69291 317.8661 cm
 Q
 q
-1 0 0 1 62.69291 717.0236 cm
+1 0 0 1 62.69291 302.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -738,14 +1163,14 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python, Swift, Javascript) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Python, Swift, Javascript, Golang) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 702.0236 cm
+1 0 0 1 62.69291 287.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -766,7 +1191,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 687.0236 cm
+1 0 0 1 62.69291 272.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -787,7 +1212,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 672.0236 cm
+1 0 0 1 62.69291 257.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -801,14 +1226,35 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Elasticsearch, RabbitMQ, Redis, Fabric) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Elasticsearch, RabbitMQ, Redis, Nginx, Gunicorn) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 657.0236 cm
+1 0 0 1 62.69291 230.8661 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 15.80937 0 Td (Deployment) Tj T* 27.23 0 Td (Tools:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Fabric, Docker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 215.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -822,14 +1268,14 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GNU/Linux) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (GNU/Linux, Windows, Mac OS) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 642.0236 cm
+1 0 0 1 62.69291 200.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -850,7 +1296,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 615.0236 cm
+1 0 0 1 62.69291 173.8661 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -871,52 +1317,61 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 582.0236 cm
+1 0 0 1 62.69291 140.8661 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 570.0236 cm
+1 0 0 1 62.69291 128.8661 cm
 Q
 q
-1 0 0 1 62.69291 558.0236 cm
+1 0 0 1 62.69291 116.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (B.E in Computer Science \(2007-2011\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 546.0236 cm
+1 0 0 1 62.69291 104.8661 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (MIET Engineering College, Trichy) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 534.0236 cm
+1 0 0 1 62.69291 92.86614 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Anna Univeristy, Chennai, India) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 534.0236 cm
+1 0 0 1 62.69291 92.86614 cm
 Q
+ 
+endstream
+endobj
+23 0 obj
+<<
+/Length 3014
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 744.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Others) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 732.0236 cm
 Q
 q
-1 0 0 1 62.69291 489.0236 cm
+1 0 0 1 62.69291 732.0236 cm
 Q
 q
-1 0 0 1 62.69291 477.0236 cm
+1 0 0 1 62.69291 720.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -937,10 +1392,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 471.0236 cm
+1 0 0 1 62.69291 714.0236 cm
 Q
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 690.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -961,10 +1416,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 441.0236 cm
+1 0 0 1 62.69291 684.0236 cm
 Q
 q
-1 0 0 1 62.69291 429.0236 cm
+1 0 0 1 62.69291 672.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -985,10 +1440,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 423.0236 cm
+1 0 0 1 62.69291 666.0236 cm
 Q
 q
-1 0 0 1 62.69291 411.0236 cm
+1 0 0 1 62.69291 654.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1009,10 +1464,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 405.0236 cm
+1 0 0 1 62.69291 648.0236 cm
 Q
 q
-1 0 0 1 62.69291 393.0236 cm
+1 0 0 1 62.69291 636.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1033,10 +1488,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 387.0236 cm
+1 0 0 1 62.69291 630.0236 cm
 Q
 q
-1 0 0 1 62.69291 375.0236 cm
+1 0 0 1 62.69291 618.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1057,10 +1512,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 369.0236 cm
+1 0 0 1 62.69291 612.0236 cm
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 600.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1081,28 +1536,57 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 357.0236 cm
+1 0 0 1 62.69291 594.0236 cm
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Experience in deployment applications using Docker) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
 Q
  
 endstream
 endobj
-22 0 obj
+24 0 obj
 <<
-/Nums [ 0 23 0 R 1 24 0 R ]
+/Nums [ 0 25 0 R 1 26 0 R 2 27 0 R ]
 >>
 endobj
-23 0 obj
+25 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-24 0 obj
+26 0 obj
 <<
 /S /D /St 2
 >>
 endobj
+27 0 obj
+<<
+/S /D /St 3
+>>
+endobj
 xref
-0 25
+0 28
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -1112,32 +1596,35 @@ xref
 0000000690 00000 n 
 0000000874 00000 n 
 0000001054 00000 n 
-0000001231 00000 n 
-0000001478 00000 n 
-0000001684 00000 n 
-0000001790 00000 n 
-0000002065 00000 n 
-0000002139 00000 n 
-0000002247 00000 n 
-0000002371 00000 n 
-0000002502 00000 n 
-0000002626 00000 n 
-0000002734 00000 n 
-0000002801 00000 n 
-0000012252 00000 n 
-0000017793 00000 n 
-0000017843 00000 n 
-0000017877 00000 n 
+0000001295 00000 n 
+0000001472 00000 n 
+0000001696 00000 n 
+0000001902 00000 n 
+0000002008 00000 n 
+0000002283 00000 n 
+0000002357 00000 n 
+0000002465 00000 n 
+0000002589 00000 n 
+0000002720 00000 n 
+0000002844 00000 n 
+0000002952 00000 n 
+0000003026 00000 n 
+0000012180 00000 n 
+0000021821 00000 n 
+0000024887 00000 n 
+0000024946 00000 n 
+0000024980 00000 n 
+0000025014 00000 n 
 trailer
 <<
 /ID 
-[<cf66896d67293ce44c788b2d43c6bff9><cf66896d67293ce44c788b2d43c6bff9>]
+[<8106459a4a96d669d50df0157340a526><8106459a4a96d669d50df0157340a526>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 12 0 R
-/Root 11 0 R
-/Size 25
+/Info 13 0 R
+/Root 12 0 R
+/Size 28
 >>
 startxref
-17911
+25048
 %%EOF
